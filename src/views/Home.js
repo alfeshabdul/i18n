@@ -21,7 +21,7 @@ function Home(){
              }}>
                 <option value="en"> English</option>
                 <option value="hi"> Hindi</option>
-                <option value="mr"> Marathi</option>
+                <option value="mr"> Marathii</option>
            </select>
 
     
