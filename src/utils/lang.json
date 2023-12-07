@@ -1,0 +1,21 @@
+{
+ "en":{
+    "welcomeM": "Welcome to AR GROUPS",
+    "introM": "Am Alfesh your guide",
+    "joiningM": "<attend> students have joined AR GROUPS",
+    "moralM": "You will get to learn a lot from here "
+ },
+ "mr":{
+    "welcomeM": "ए.आर. ग्रुप्समध्ये आपले स्वागत आहे",
+    "introM": "माझं नाव अल्फेश आहे, तुमच्या मार्गदर्शक",
+    "joiningM": "<attend> विद्यार्थी ए.आर. ग्रुप्समध्ये सामील झाले आहेत",
+    "moralM": "इथून तुम्हाला कितीही शिकायचं आहे"
+ },
+ "hi":{
+    "welcomeM": "ए.आर ग्रुप्स में आपका स्वागत है",
+    "introM": "मैं अलफेश, आपका मार्गदर्शक",
+    "joiningM": "<attend> छात्र AR ग्रुप्स में शामिल हो गए हैं",
+    "moralM": "यहां से आपको बहुत कुछ सीखने को मिलेगा"
+ }
+
+}
